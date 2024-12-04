@@ -1,3 +1,3 @@
-output "network_ip" {
-    value = module.vpc.public_ip
-}
+#output "network_ip" {
+    #value = module.vpc.name
+#}
