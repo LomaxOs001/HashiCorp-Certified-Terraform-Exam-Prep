@@ -1,3 +1,3 @@
 output "network_ip" {
-    value = module.vpc.public_ip
+    value = module.vpc.network_id
 }
